@@ -1,1 +1,11 @@
+Scanning
 
+Tools:
+- OWASP ZAP
+
+Findings:
+- SQL Injection (High)
+- Missing Security Headers (Medium)
+
+Notes:
+OWASP ZAP detected multiple web vulnerabilities.
