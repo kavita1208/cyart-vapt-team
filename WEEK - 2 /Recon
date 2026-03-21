@@ -1,1 +1,16 @@
+Reconnaissance
 
+Target: 82.212.121.189
+
+Tools Used:
+- Nmap
+
+Commands:
+nmap -sV 192.168.1.10
+
+Findings:
+- Port 80 (HTTP) open
+- Port 22 (SSH) open
+- Port 443(HTTPS) open
+- Port 21 (FTP) open
+- Port 25 (SMTP) open
